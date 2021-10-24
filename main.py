@@ -1,3 +1,5 @@
+print("aboba")
+print("potato")
 print("hello world!!!")
 print("1")
 print("2")
