@@ -1,3 +1,5 @@
+print("aboba")
+print("potato")
+print("pe")
 print("hello world!!!")
-print("24")
-print("3")
+
